@@ -1,7 +1,6 @@
 # Simple Reverse Polish Notation (RPN) Calculator
 
 This repository contains a simple calculator that works based on Reverse Polish Notation (RPN). The code is presented as a Node.js module named calculator.js, allowing users to perform arithmetic calculations using addition, subtraction, multiplication, and division operations.
-
 ## How to Use
 Make sure you have Node.js installed on your computer.
 Clone this repository or download it as a ZIP archive and extract it.
